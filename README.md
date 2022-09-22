@@ -1,4 +1,4 @@
-# wollys-mobile
+# Wolly's Mobile
 Demo app for SwiftUI Workshop at Oasis Fall 2022 Hack Session 2.
 
 [Click here](https://hub.oasisneu.com/8996a97af23e4a27b88bd71a0d731443) for a link to the Resources page written for the presentation, including a link to the presentation itself.
